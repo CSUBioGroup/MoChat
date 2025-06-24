@@ -1,0 +1,3502 @@
+[
+    {
+        "id": "009338",
+        "image": "009338.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person raises their left arm holding an object start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_55> to <frameid_67>, a person raises their left arm holding an object."
+            }
+        ]
+    },
+    {
+        "id": "009338",
+        "image": "009338.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of They then lower their arm?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_71> to <frameid_91>, they then lower their arm."
+            }
+        ]
+    },
+    {
+        "id": "009485",
+        "image": "009485.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person raises their right hand was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_6> to <frameid_29>, a person raises their right hand."
+            }
+        ]
+    },
+    {
+        "id": "009485",
+        "image": "009485.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of They then lower their right hand start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_44> to <frameid_63>, they then lower their right hand."
+            }
+        ]
+    },
+    {
+        "id": "009849",
+        "image": "009849.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person is crouched?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_6> to <frameid_28>, a person is crouched."
+            }
+        ]
+    },
+    {
+        "id": "009849",
+        "image": "009849.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of They stand was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_56> to <frameid_78>, they stand."
+            }
+        ]
+    },
+    {
+        "id": "009849",
+        "image": "009849.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of They resume the crouched position.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_133> to <frameid_141>, they resume the crouched position."
+            }
+        ]
+    },
+    {
+        "id": "005851",
+        "image": "005851.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person raises his right hand was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_2> to <frameid_14>, a person raises his right hand."
+            }
+        ]
+    },
+    {
+        "id": "005851",
+        "image": "005851.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He then lowers his hand back to his side was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_27> to <frameid_40>, he then lowers his hand back to his side."
+            }
+        ]
+    },
+    {
+        "id": "010541",
+        "image": "010541.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A man is crouching?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_21> to <frameid_42>, a man is crouching."
+            }
+        ]
+    },
+    {
+        "id": "010541",
+        "image": "010541.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of He raises his left hand to his head?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_69> to <frameid_146>, he raises his left hand to his head."
+            }
+        ]
+    },
+    {
+        "id": "010541",
+        "image": "010541.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He lowers it back down start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_146> to <frameid_161>, he lowers it back down."
+            }
+        ]
+    },
+    {
+        "id": "013745",
+        "image": "013745.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person lifts his right hand to his mouth start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_4> to <frameid_18>, a person lifts his right hand to his mouth."
+            }
+        ]
+    },
+    {
+        "id": "013745",
+        "image": "013745.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He then puts it back by his side was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_53> to <frameid_67>, he then puts it back by his side."
+            }
+        ]
+    },
+    {
+        "id": "013777",
+        "image": "013777.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A man sits down with crossed legs start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_8> to <frameid_50>, a man sits down with crossed legs."
+            }
+        ]
+    },
+    {
+        "id": "013777",
+        "image": "013777.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He gets up was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_83> to <frameid_122>, he gets up."
+            }
+        ]
+    },
+    {
+        "id": "000166",
+        "image": "000166.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man raises his right arm was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_13>, a man raises his right arm."
+            }
+        ]
+    },
+    {
+        "id": "000166",
+        "image": "000166.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He brings it back down start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_20> to <frameid_26>, he brings it back down."
+            }
+        ]
+    },
+    {
+        "id": "005433",
+        "image": "005433.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of The person sits on the ground with their legs crossed start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_11> to <frameid_62>, the person sits on the ground with their legs crossed."
+            }
+        ]
+    },
+    {
+        "id": "005433",
+        "image": "005433.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of they get back up.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_112> to <frameid_155>, they get back up."
+            }
+        ]
+    },
+    {
+        "id": "003603",
+        "image": "003603.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person kneels on their right knee.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_25>, a person kneels on their right knee."
+            }
+        ]
+    },
+    {
+        "id": "003603",
+        "image": "003603.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of they kneel on their left knee start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_60> to <frameid_67>, they kneel on their left knee."
+            }
+        ]
+    },
+    {
+        "id": "004947",
+        "image": "004947.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person sits down start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_60>, a person sits down."
+            }
+        ]
+    },
+    {
+        "id": "004947",
+        "image": "004947.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of uses left arm to push up was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_78> to <frameid_102>, uses left arm to push up."
+            }
+        ]
+    },
+    {
+        "id": "011477",
+        "image": "011477.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person stretches their right arm upwards.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_11>, a person stretches their right arm upwards."
+            }
+        ]
+    },
+    {
+        "id": "011477",
+        "image": "011477.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person their left arm was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_35> to <frameid_48>, the person their left arm."
+            }
+        ]
+    },
+    {
+        "id": "006567",
+        "image": "006567.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person sits on a chair was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_21> to <frameid_72>, a person sits on a chair."
+            }
+        ]
+    },
+    {
+        "id": "006567",
+        "image": "006567.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of They stand back up was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_85> to <frameid_117>, they stand back up."
+            }
+        ]
+    },
+    {
+        "id": "001179",
+        "image": "001179.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person raises his right arm.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_1> to <frameid_20>, a person raises his right arm."
+            }
+        ]
+    },
+    {
+        "id": "001179",
+        "image": "001179.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He then lowers it.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_34> to <frameid_48>, he then lowers it."
+            }
+        ]
+    },
+    {
+        "id": "009917",
+        "image": "009917.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person balances on their left leg.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_80> to <frameid_96>, a person balances on their left leg."
+            }
+        ]
+    },
+    {
+        "id": "009917",
+        "image": "009917.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of they balance on their right leg?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_138> to <frameid_151>, they balance on their right leg."
+            }
+        ]
+    },
+    {
+        "id": "003154",
+        "image": "003154.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person raises their right hand.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_17>, a person raises their right hand."
+            }
+        ]
+    },
+    {
+        "id": "003154",
+        "image": "003154.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person switches to raising the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_25> to <frameid_47>, the person switches to raising the left."
+            }
+        ]
+    },
+    {
+        "id": "009905",
+        "image": "009905.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person sits cross legged.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_2> to <frameid_34>, a person sits cross legged."
+            }
+        ]
+    },
+    {
+        "id": "009905",
+        "image": "009905.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person stands up start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_109> to <frameid_145>, the person stands up."
+            }
+        ]
+    },
+    {
+        "id": "002364",
+        "image": "002364.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person lifts their right leg?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_3> to <frameid_16>, a person lifts their right leg."
+            }
+        ]
+    },
+    {
+        "id": "002364",
+        "image": "002364.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person lifts their left leg was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_30> to <frameid_44>, the person lifts their left leg."
+            }
+        ]
+    },
+    {
+        "id": "009519",
+        "image": "009519.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person standing scratches his head was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_7> to <frameid_20>, a person standing scratches his head."
+            }
+        ]
+    },
+    {
+        "id": "009519",
+        "image": "009519.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He lowers his hand back down.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_53> to <frameid_65>, he lowers his hand back down."
+            }
+        ]
+    },
+    {
+        "id": "013812",
+        "image": "013812.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of Someone raises their right arm?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_1> to <frameid_15>, someone raises their right arm."
+            }
+        ]
+    },
+    {
+        "id": "013812",
+        "image": "013812.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of They put it back down?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_31> to <frameid_55>, they put it back down."
+            }
+        ]
+    },
+    {
+        "id": "006432",
+        "image": "006432.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man raises his right hand to his head was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_4> to <frameid_17>, a man raises his right hand to his head."
+            }
+        ]
+    },
+    {
+        "id": "006432",
+        "image": "006432.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He lowers it back down was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_52> to <frameid_68>, he lowers it back down."
+            }
+        ]
+    },
+    {
+        "id": "007828",
+        "image": "007828.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A man lifts something with his hands.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_1> to <frameid_20>, a man lifts something with his hands."
+            }
+        ]
+    },
+    {
+        "id": "007828",
+        "image": "007828.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He places it back was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_175> to <frameid_190>, he places it back."
+            }
+        ]
+    },
+    {
+        "id": "002382",
+        "image": "002382.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of The person rotates arms.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_103> to <frameid_114>, the person rotates arms."
+            }
+        ]
+    },
+    {
+        "id": "002382",
+        "image": "002382.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of they rotate clockwise was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_114> to <frameid_131>, they rotate clockwise."
+            }
+        ]
+    },
+    {
+        "id": "002382",
+        "image": "002382.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of they rotate anticlockwise start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_131> to <frameid_145>, they rotate anticlockwise."
+            }
+        ]
+    },
+    {
+        "id": "008177",
+        "image": "008177.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of Standing in a half-squat with hands on knees, a person turns their head side to side?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_4> to <frameid_183>, standing in a half-squat with hands on knees, a person turns their head side to side."
+            }
+        ]
+    },
+    {
+        "id": "008177",
+        "image": "008177.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person quickly turns their body and head counterclockwise.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_180> to <frameid_198>, the person quickly turns their body and head counterclockwise."
+            }
+        ]
+    },
+    {
+        "id": "013811",
+        "image": "013811.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person is sitting with both arms out in front of themselves holding something start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_38> to <frameid_61>, a person is sitting with both arms out in front of themselves holding something."
+            }
+        ]
+    },
+    {
+        "id": "000266",
+        "image": "000266.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person Walking from left to right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_40> to <frameid_94>, the person walking from left to right."
+            }
+        ]
+    },
+    {
+        "id": "000266",
+        "image": "000266.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person Walking from right to left.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_94> to <frameid_137>, the person walking from right to left."
+            }
+        ]
+    },
+    {
+        "id": "000266",
+        "image": "000266.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person Walking back to right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_137> to <frameid_184>, the person walking back to right."
+            }
+        ]
+    },
+    {
+        "id": "001320",
+        "image": "001320.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A man lowers his raised arms?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_1> to <frameid_25>, a man lowers his raised arms."
+            }
+        ]
+    },
+    {
+        "id": "001320",
+        "image": "001320.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He picks something up was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_46> to <frameid_85>, he picks something up."
+            }
+        ]
+    },
+    {
+        "id": "002139",
+        "image": "002139.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of They crouch to put it down?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_66> to <frameid_124>, they crouch to put it down."
+            }
+        ]
+    },
+    {
+        "id": "002139",
+        "image": "002139.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of They stand up straight start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_145> to <frameid_166>, they stand up straight."
+            }
+        ]
+    },
+    {
+        "id": "014049",
+        "image": "014049.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of Person stretches both arms up?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_9> to <frameid_56>, person stretches both arms up."
+            }
+        ]
+    },
+    {
+        "id": "014049",
+        "image": "014049.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person puts arms down?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_90> to <frameid_131>, the person puts arms down."
+            }
+        ]
+    },
+    {
+        "id": "013474",
+        "image": "013474.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person lowers their arms.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_29>, a person lowers their arms."
+            }
+        ]
+    },
+    {
+        "id": "013474",
+        "image": "013474.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person moves them back up to shoulder height was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_150> to <frameid_172>, the person moves them back up to shoulder height."
+            }
+        ]
+    },
+    {
+        "id": "011573",
+        "image": "011573.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person bends both arms in front of the body at shoulder level.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_7>, a person bends both arms in front of the body at shoulder level."
+            }
+        ]
+    },
+    {
+        "id": "011573",
+        "image": "011573.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of They flap them.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_10> to <frameid_43>, they flap them."
+            }
+        ]
+    },
+    {
+        "id": "011573",
+        "image": "011573.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of they unfold them.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_44> to <frameid_56>, they unfold them."
+            }
+        ]
+    },
+    {
+        "id": "011731",
+        "image": "011731.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person starts with both hands at equal level with his shoulders start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_61> to <frameid_91>, a person starts with both hands at equal level with his shoulders."
+            }
+        ]
+    },
+    {
+        "id": "011731",
+        "image": "011731.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He puts his hands down start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_102> to <frameid_124>, he puts his hands down."
+            }
+        ]
+    },
+    {
+        "id": "011731",
+        "image": "011731.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of he lifts something start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_124> to <frameid_140>, he lifts something."
+            }
+        ]
+    },
+    {
+        "id": "009287",
+        "image": "009287.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A figure gets down on all fours was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_40> to <frameid_62>, a figure gets down on all fours."
+            }
+        ]
+    },
+    {
+        "id": "009287",
+        "image": "009287.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of It then raises its chest?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_98> to <frameid_107>, it then raises its chest."
+            }
+        ]
+    },
+    {
+        "id": "012355",
+        "image": "012355.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person moves their hands up and down slightly start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_51>, a person moves their hands up and down slightly."
+            }
+        ]
+    },
+    {
+        "id": "012355",
+        "image": "012355.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of they set their hands all the way down start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_69> to <frameid_147>, they set their hands all the way down."
+            }
+        ]
+    },
+    {
+        "id": "008131",
+        "image": "008131.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person stretches their arms up.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_29>, a person stretches their arms up."
+            }
+        ]
+    },
+    {
+        "id": "008131",
+        "image": "008131.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person puts them down start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_62> to <frameid_99>, the person puts them down."
+            }
+        ]
+    },
+    {
+        "id": "014445",
+        "image": "014445.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person raises both arms to his face.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_1> to <frameid_14>, a person raises both arms to his face."
+            }
+        ]
+    },
+    {
+        "id": "014445",
+        "image": "014445.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He drops them back to his sides.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_40> to <frameid_55>, he drops them back to his sides."
+            }
+        ]
+    },
+    {
+        "id": "002514",
+        "image": "002514.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person raises his hands to his mouth area was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_5> to <frameid_20>, a person raises his hands to his mouth area."
+            }
+        ]
+    },
+    {
+        "id": "002514",
+        "image": "002514.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He drops his hands back to the waist.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_35> to <frameid_66>, he drops his hands back to the waist."
+            }
+        ]
+    },
+    {
+        "id": "002160",
+        "image": "002160.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of They walk backward again was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_98> to <frameid_144>, they walk backward again."
+            }
+        ]
+    },
+    {
+        "id": "001617",
+        "image": "001617.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person is walking one way.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_23> to <frameid_61>, a person is walking one way."
+            }
+        ]
+    },
+    {
+        "id": "001617",
+        "image": "001617.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of they increase pace running back start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_139> to <frameid_166>, they increase pace running back."
+            }
+        ]
+    },
+    {
+        "id": "009303",
+        "image": "009303.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person starts walking forward start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_80>, a person starts walking forward."
+            }
+        ]
+    },
+    {
+        "id": "009303",
+        "image": "009303.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person begins to run?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_80> to <frameid_107>, the person begins to run."
+            }
+        ]
+    },
+    {
+        "id": "009377",
+        "image": "009377.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of Person moves forward sluggishly?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_46>, person moves forward sluggishly."
+            }
+        ]
+    },
+    {
+        "id": "009377",
+        "image": "009377.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person runs in the other direction?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_82> to <frameid_174>, the person runs in the other direction."
+            }
+        ]
+    },
+    {
+        "id": "004504",
+        "image": "004504.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person jogs for a few steps was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_10>, a person jogs for a few steps."
+            }
+        ]
+    },
+    {
+        "id": "004504",
+        "image": "004504.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person slows to a walk for a few more steps start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_13> to <frameid_69>, the person slows to a walk for a few more steps."
+            }
+        ]
+    },
+    {
+        "id": "013665",
+        "image": "013665.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man walks forward three steps was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_30>, a man walks forward three steps."
+            }
+        ]
+    },
+    {
+        "id": "013665",
+        "image": "013665.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of He gently leaps two steps?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_34> to <frameid_88>, he gently leaps two steps."
+            }
+        ]
+    },
+    {
+        "id": "011046",
+        "image": "011046.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person walks backwards?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_47> to <frameid_118>, a person walks backwards."
+            }
+        ]
+    },
+    {
+        "id": "011046",
+        "image": "011046.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person steps up stairs backwards start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_121> to <frameid_198>, the person steps up stairs backwards."
+            }
+        ]
+    },
+    {
+        "id": "012555",
+        "image": "012555.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person kicks their right foot in front of them?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_23> to <frameid_35>, a person kicks their right foot in front of them."
+            }
+        ]
+    },
+    {
+        "id": "012555",
+        "image": "012555.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of They put it back on the ground?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_35> to <frameid_54>, they put it back on the ground."
+            }
+        ]
+    },
+    {
+        "id": "001218",
+        "image": "001218.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of The person is walking in a curve to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_41> to <frameid_148>, the person is walking in a curve to the left."
+            }
+        ]
+    },
+    {
+        "id": "001218",
+        "image": "001218.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person back around to the right in a curve.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_148> to <frameid_187>, the person back around to the right in a curve."
+            }
+        ]
+    },
+    {
+        "id": "004273",
+        "image": "004273.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of Robot starts walking to his left.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_4> to <frameid_43>, robot starts walking to his left."
+            }
+        ]
+    },
+    {
+        "id": "004273",
+        "image": "004273.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He then starts running from right to left start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_43> to <frameid_88>, he then starts running from right to left."
+            }
+        ]
+    },
+    {
+        "id": "004273",
+        "image": "004273.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He stops at center start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_88> to <frameid_127>, he stops at center."
+            }
+        ]
+    },
+    {
+        "id": "014431",
+        "image": "014431.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person walks to the right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_2> to <frameid_68>, a person walks to the right."
+            }
+        ]
+    },
+    {
+        "id": "014431",
+        "image": "014431.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person walks to the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_68> to <frameid_145>, the person walks to the left."
+            }
+        ]
+    },
+    {
+        "id": "014431",
+        "image": "014431.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person walks to the middle?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_145> to <frameid_198>, the person walks to the middle."
+            }
+        ]
+    },
+    {
+        "id": "003227",
+        "image": "003227.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person back to the right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_116> to <frameid_161>, the person back to the right."
+            }
+        ]
+    },
+    {
+        "id": "003227",
+        "image": "003227.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person Finishing in the center start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_161> to <frameid_172>, the person finishing in the center."
+            }
+        ]
+    },
+    {
+        "id": "002707",
+        "image": "002707.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of Someone is walking.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_5> to <frameid_31>, someone is walking."
+            }
+        ]
+    },
+    {
+        "id": "002707",
+        "image": "002707.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person turning to their right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_31> to <frameid_102>, the person turning to their right."
+            }
+        ]
+    },
+    {
+        "id": "003491",
+        "image": "003491.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person walks to the right start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_7> to <frameid_54>, a person walks to the right."
+            }
+        ]
+    },
+    {
+        "id": "006337",
+        "image": "006337.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of This person walks briskly to the right was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_64>, this person walks briskly to the right."
+            }
+        ]
+    },
+    {
+        "id": "006337",
+        "image": "006337.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_64> to <frameid_111>, the person to the left."
+            }
+        ]
+    },
+    {
+        "id": "006337",
+        "image": "006337.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person e right again?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_111> to <frameid_156>, the person e right again."
+            }
+        ]
+    },
+    {
+        "id": "006337",
+        "image": "006337.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person to the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_156> to <frameid_198>, the person to the left."
+            }
+        ]
+    },
+    {
+        "id": "014205",
+        "image": "014205.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person side steps to the right 3 times?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_8> to <frameid_58>, a person side steps to the right 3 times."
+            }
+        ]
+    },
+    {
+        "id": "014205",
+        "image": "014205.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of they side step to the left 3 times was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_58> to <frameid_104>, they side step to the left 3 times."
+            }
+        ]
+    },
+    {
+        "id": "014205",
+        "image": "014205.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of they side step to the right once more start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_104> to <frameid_129>, they side step to the right once more."
+            }
+        ]
+    },
+    {
+        "id": "001168",
+        "image": "001168.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of Person moves leading right foot was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_66> to <frameid_83>, person moves leading right foot."
+            }
+        ]
+    },
+    {
+        "id": "001168",
+        "image": "001168.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person left to complete five steps to slight left start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_96> to <frameid_110>, the person left to complete five steps to slight left."
+            }
+        ]
+    },
+    {
+        "id": "004695",
+        "image": "004695.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person moves sideways to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_5> to <frameid_44>, a person moves sideways to the left."
+            }
+        ]
+    },
+    {
+        "id": "004695",
+        "image": "004695.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person sideways back to the right start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_44> to <frameid_89>, the person sideways back to the right."
+            }
+        ]
+    },
+    {
+        "id": "004695",
+        "image": "004695.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person one more step to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_89> to <frameid_107>, the person one more step to the left."
+            }
+        ]
+    },
+    {
+        "id": "004083",
+        "image": "004083.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person back again was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_155> to <frameid_197>, the person back again."
+            }
+        ]
+    },
+    {
+        "id": "007318",
+        "image": "007318.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of The person steps to the right 3 times start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_87>, the person steps to the right 3 times."
+            }
+        ]
+    },
+    {
+        "id": "007318",
+        "image": "007318.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person steps to the left 4 times.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_87> to <frameid_198>, the person steps to the left 4 times."
+            }
+        ]
+    },
+    {
+        "id": "002252",
+        "image": "002252.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person side steps to the right start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_12> to <frameid_66>, a person side steps to the right."
+            }
+        ]
+    },
+    {
+        "id": "002252",
+        "image": "002252.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person side steps to the left start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_66> to <frameid_143>, the person side steps to the left."
+            }
+        ]
+    },
+    {
+        "id": "012399",
+        "image": "012399.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person takes one step to the left.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_131> to <frameid_149>, a person takes one step to the left."
+            }
+        ]
+    },
+    {
+        "id": "012399",
+        "image": "012399.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person takes multiple steps to the right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_107> to <frameid_198>, the person takes multiple steps to the right."
+            }
+        ]
+    },
+    {
+        "id": "009768",
+        "image": "009768.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person side steps to the right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_44>, a person side steps to the right."
+            }
+        ]
+    },
+    {
+        "id": "009768",
+        "image": "009768.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person side steps to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_150> to <frameid_184>, the person side steps to the left."
+            }
+        ]
+    },
+    {
+        "id": "009871",
+        "image": "009871.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person side steps to the right was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_46> to <frameid_95>, a person side steps to the right."
+            }
+        ]
+    },
+    {
+        "id": "009871",
+        "image": "009871.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person back to the left start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_95> to <frameid_146>, the person back to the left."
+            }
+        ]
+    },
+    {
+        "id": "003669",
+        "image": "003669.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person makes sideways steps to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_6> to <frameid_71>, a person makes sideways steps to the left."
+            }
+        ]
+    },
+    {
+        "id": "003669",
+        "image": "003669.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of he makes steps to the right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_71> to <frameid_138>, he makes steps to the right."
+            }
+        ]
+    },
+    {
+        "id": "010817",
+        "image": "010817.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person walks three steps to his right start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_12> to <frameid_61>, a person walks three steps to his right."
+            }
+        ]
+    },
+    {
+        "id": "010817",
+        "image": "010817.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of he walks five steps to his left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_61> to <frameid_140>, he walks five steps to his left."
+            }
+        ]
+    },
+    {
+        "id": "010817",
+        "image": "010817.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of he walks three steps to his right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_140> to <frameid_181>, he walks three steps to his right."
+            }
+        ]
+    },
+    {
+        "id": "001419",
+        "image": "001419.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person steps to the right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_31>, a person steps to the right."
+            }
+        ]
+    },
+    {
+        "id": "001419",
+        "image": "001419.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person back to the left horizontally?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_31> to <frameid_68>, the person back to the left horizontally."
+            }
+        ]
+    },
+    {
+        "id": "000343",
+        "image": "000343.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person back to the right start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_182> to <frameid_198>, the person back to the right."
+            }
+        ]
+    },
+    {
+        "id": "005077",
+        "image": "005077.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A man steps into his shoes with his left foot.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_26> to <frameid_62>, a man steps into his shoes with his left foot."
+            }
+        ]
+    },
+    {
+        "id": "005077",
+        "image": "005077.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of he steps into his shoes with his right foot.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_61> to <frameid_81>, he steps into his shoes with his right foot."
+            }
+        ]
+    },
+    {
+        "id": "012118",
+        "image": "012118.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A man takes three side steps left start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_74>, a man takes three side steps left."
+            }
+        ]
+    },
+    {
+        "id": "012118",
+        "image": "012118.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He then takes five side steps back right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_74> to <frameid_198>, he then takes five side steps back right."
+            }
+        ]
+    },
+    {
+        "id": "005617",
+        "image": "005617.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person bends forward?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_20> to <frameid_33>, a person bends forward."
+            }
+        ]
+    },
+    {
+        "id": "005617",
+        "image": "005617.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of They straighten up?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_133> to <frameid_153>, they straighten up."
+            }
+        ]
+    },
+    {
+        "id": "005617",
+        "image": "005617.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of They bend forward to touch their feet start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_153> to <frameid_179>, they bend forward to touch their feet."
+            }
+        ]
+    },
+    {
+        "id": "008910",
+        "image": "008910.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person kneels on both knees.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_22> to <frameid_30>, a person kneels on both knees."
+            }
+        ]
+    },
+    {
+        "id": "008910",
+        "image": "008910.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person stands into an upright position was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_146> to <frameid_163>, the person stands into an upright position."
+            }
+        ]
+    },
+    {
+        "id": "004601",
+        "image": "004601.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of Someone is climbing a ladder?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_2> to <frameid_37>, someone is climbing a ladder."
+            }
+        ]
+    },
+    {
+        "id": "003137",
+        "image": "003137.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man waved his one arm in the air was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_4>, a man waved his one arm in the air."
+            }
+        ]
+    },
+    {
+        "id": "003137",
+        "image": "003137.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of He put it down?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_13> to <frameid_31>, he put it down."
+            }
+        ]
+    },
+    {
+        "id": "003137",
+        "image": "003137.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He waved his other arm in the air start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_31> to <frameid_55>, he waved his other arm in the air."
+            }
+        ]
+    },
+    {
+        "id": "014305",
+        "image": "014305.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man runs left from the middle was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_1> to <frameid_38>, a man runs left from the middle."
+            }
+        ]
+    },
+    {
+        "id": "014305",
+        "image": "014305.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person all the way right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_38> to <frameid_81>, the person all the way right."
+            }
+        ]
+    },
+    {
+        "id": "014305",
+        "image": "014305.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person back left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_81> to <frameid_128>, the person back left."
+            }
+        ]
+    },
+    {
+        "id": "014305",
+        "image": "014305.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person stops at the middle start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_128> to <frameid_133>, the person stops at the middle."
+            }
+        ]
+    },
+    {
+        "id": "012306",
+        "image": "012306.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person runs from the middle to one side start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_3> to <frameid_15>, a person runs from the middle to one side."
+            }
+        ]
+    },
+    {
+        "id": "012306",
+        "image": "012306.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of they turn around was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_15> to <frameid_64>, they turn around."
+            }
+        ]
+    },
+    {
+        "id": "012306",
+        "image": "012306.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of they run to the other side.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_64> to <frameid_133>, they run to the other side."
+            }
+        ]
+    },
+    {
+        "id": "012306",
+        "image": "012306.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of they run back to the middle?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_133> to <frameid_181>, they run back to the middle."
+            }
+        ]
+    },
+    {
+        "id": "013023",
+        "image": "013023.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of The person was running to the right was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_29>, the person was running to the right."
+            }
+        ]
+    },
+    {
+        "id": "013023",
+        "image": "013023.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person to the left very quickly was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_29> to <frameid_49>, the person to the left very quickly."
+            }
+        ]
+    },
+    {
+        "id": "000019",
+        "image": "000019.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A man runs to the right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_5> to <frameid_43>, a man runs to the right."
+            }
+        ]
+    },
+    {
+        "id": "000019",
+        "image": "000019.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of he runs to the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_43> to <frameid_96>, he runs to the left."
+            }
+        ]
+    },
+    {
+        "id": "000019",
+        "image": "000019.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of he runs back to the middle was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_96> to <frameid_136>, he runs back to the middle."
+            }
+        ]
+    },
+    {
+        "id": "000998",
+        "image": "000998.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person walks forward was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_46>, a person walks forward."
+            }
+        ]
+    },
+    {
+        "id": "000998",
+        "image": "000998.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He stumbles backwards was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_46> to <frameid_75>, he stumbles backwards."
+            }
+        ]
+    },
+    {
+        "id": "000998",
+        "image": "000998.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He walks forward again was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_75> to <frameid_137>, he walks forward again."
+            }
+        ]
+    },
+    {
+        "id": "006949",
+        "image": "006949.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person walks forward?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_24> to <frameid_37>, a person walks forward."
+            }
+        ]
+    },
+    {
+        "id": "006949",
+        "image": "006949.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person slightly back.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_74> to <frameid_88>, the person slightly back."
+            }
+        ]
+    },
+    {
+        "id": "006949",
+        "image": "006949.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person forward again was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_99> to <frameid_112>, the person forward again."
+            }
+        ]
+    },
+    {
+        "id": "002712",
+        "image": "002712.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A man stretches his arms out.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_9> to <frameid_41>, a man stretches his arms out."
+            }
+        ]
+    },
+    {
+        "id": "002712",
+        "image": "002712.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He moves his right arm back and forth start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_61> to <frameid_142>, he moves his right arm back and forth."
+            }
+        ]
+    },
+    {
+        "id": "004560",
+        "image": "004560.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person does a karate motion forward was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_26> to <frameid_51>, a person does a karate motion forward."
+            }
+        ]
+    },
+    {
+        "id": "004560",
+        "image": "004560.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of they move backwards was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_57> to <frameid_182>, they move backwards."
+            }
+        ]
+    },
+    {
+        "id": "007999",
+        "image": "007999.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person doges to the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_85> to <frameid_111>, a person doges to the left."
+            }
+        ]
+    },
+    {
+        "id": "007999",
+        "image": "007999.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person doges to the right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_111> to <frameid_198>, the person doges to the right."
+            }
+        ]
+    },
+    {
+        "id": "008141",
+        "image": "008141.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of The person puts something on its side was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_13> to <frameid_56>, the person puts something on its side."
+            }
+        ]
+    },
+    {
+        "id": "008141",
+        "image": "008141.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person brings it back to normal was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_110> to <frameid_164>, the person brings it back to normal."
+            }
+        ]
+    },
+    {
+        "id": "002122",
+        "image": "002122.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of The person twists from left to right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_53> to <frameid_78>, the person twists from left to right."
+            }
+        ]
+    },
+    {
+        "id": "002122",
+        "image": "002122.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person twists from right to left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_78> to <frameid_112>, the person twists from right to left."
+            }
+        ]
+    },
+    {
+        "id": "013636",
+        "image": "013636.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person raises their right arm to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_32> to <frameid_57>, a person raises their right arm to the left."
+            }
+        ]
+    },
+    {
+        "id": "013636",
+        "image": "013636.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person raises it to the middle was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_57> to <frameid_78>, the person raises it to the middle."
+            }
+        ]
+    },
+    {
+        "id": "011767",
+        "image": "011767.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person turns to the right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_59> to <frameid_72>, a person turns to the right."
+            }
+        ]
+    },
+    {
+        "id": "011767",
+        "image": "011767.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person returns to a neutral position.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_72> to <frameid_84>, the person returns to a neutral position."
+            }
+        ]
+    },
+    {
+        "id": "004153",
+        "image": "004153.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person looks to their right start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_134> to <frameid_160>, a person looks to their right."
+            }
+        ]
+    },
+    {
+        "id": "004153",
+        "image": "004153.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of the person shifts to their left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_160> to <frameid_194>, the person shifts to their left."
+            }
+        ]
+    },
+    {
+        "id": "004474",
+        "image": "004474.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person extends their left arm outwards start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_8> to <frameid_18>, a person extends their left arm outwards."
+            }
+        ]
+    },
+    {
+        "id": "004474",
+        "image": "004474.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person back to their shoulder, in a curling motion start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_18> to <frameid_28>, the person back to their shoulder, in a curling motion."
+            }
+        ]
+    },
+    {
+        "id": "001330",
+        "image": "001330.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A person uses their right arm to hit down to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_5> to <frameid_56>, a person uses their right arm to hit down to the left."
+            }
+        ]
+    },
+    {
+        "id": "001330",
+        "image": "001330.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of The left arm crosses over the right side of the body?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_41> to <frameid_76>, the left arm crosses over the right side of the body."
+            }
+        ]
+    },
+    {
+        "id": "010157",
+        "image": "010157.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of The person was taking a left drive was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_29>, the person was taking a left drive."
+            }
+        ]
+    },
+    {
+        "id": "010157",
+        "image": "010157.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person to the right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_29> to <frameid_49>, the person to the right."
+            }
+        ]
+    },
+    {
+        "id": "006199",
+        "image": "006199.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A man picks up an object with both of his hands?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_5> to <frameid_18>, a man picks up an object with both of his hands."
+            }
+        ]
+    },
+    {
+        "id": "006199",
+        "image": "006199.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He places it down on his left side.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_39> to <frameid_70>, he places it down on his left side."
+            }
+        ]
+    },
+    {
+        "id": "004472",
+        "image": "004472.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man dodges to the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_19> to <frameid_54>, a man dodges to the left."
+            }
+        ]
+    },
+    {
+        "id": "004336",
+        "image": "004336.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person throws something underhand was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_5> to <frameid_19>, a person throws something underhand."
+            }
+        ]
+    },
+    {
+        "id": "007675",
+        "image": "007675.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person is in T stance was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_26>, a person is in t stance."
+            }
+        ]
+    },
+    {
+        "id": "011343",
+        "image": "011343.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person brings both hands to crotch.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_1> to <frameid_23>, a person brings both hands to crotch."
+            }
+        ]
+    },
+    {
+        "id": "011343",
+        "image": "011343.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person returns to the original position.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_119> to <frameid_137>, the person returns to the original position."
+            }
+        ]
+    },
+    {
+        "id": "011558",
+        "image": "011558.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A man puts his hands out fully extended.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_55> to <frameid_74>, a man puts his hands out fully extended."
+            }
+        ]
+    },
+    {
+        "id": "011558",
+        "image": "011558.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of He brings them back toward his body start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_74> to <frameid_94>, he brings them back toward his body."
+            }
+        ]
+    },
+    {
+        "id": "002799",
+        "image": "002799.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man clasps his hands to the side was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_10> to <frameid_27>, a man clasps his hands to the side."
+            }
+        ]
+    },
+    {
+        "id": "002799",
+        "image": "002799.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of He unclasps them?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_52> to <frameid_66>, he unclasps them."
+            }
+        ]
+    },
+    {
+        "id": "007676",
+        "image": "007676.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person leans right was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_17> to <frameid_41>, a person leans right."
+            }
+        ]
+    },
+    {
+        "id": "007676",
+        "image": "007676.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of leans left.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_41> to <frameid_54>, leans left."
+            }
+        ]
+    },
+    {
+        "id": "014477",
+        "image": "014477.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person crosses their arms was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_6> to <frameid_31>, a person crosses their arms."
+            }
+        ]
+    },
+    {
+        "id": "014477",
+        "image": "014477.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of They uncross them start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_39> to <frameid_59>, they uncross them."
+            }
+        ]
+    },
+    {
+        "id": "010898",
+        "image": "010898.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person looks to the left start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_18>, a person looks to the left."
+            }
+        ]
+    },
+    {
+        "id": "010898",
+        "image": "010898.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of They kick something with their right foot.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_10> to <frameid_42>, they kick something with their right foot."
+            }
+        ]
+    },
+    {
+        "id": "002242",
+        "image": "002242.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person crawls on the ground from east to west.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_28> to <frameid_113>, a person crawls on the ground from east to west."
+            }
+        ]
+    },
+    {
+        "id": "002242",
+        "image": "002242.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person goes back.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_137> to <frameid_192>, the person goes back."
+            }
+        ]
+    },
+    {
+        "id": "006575",
+        "image": "006575.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person reaches with their left arm to the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_19>, a person reaches with their left arm to the left."
+            }
+        ]
+    },
+    {
+        "id": "006575",
+        "image": "006575.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of They turn their upper body to the right was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_186> to <frameid_198>, they turn their upper body to the right."
+            }
+        ]
+    },
+    {
+        "id": "007862",
+        "image": "007862.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person crosses their arms was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_11> to <frameid_23>, a person crosses their arms."
+            }
+        ]
+    },
+    {
+        "id": "007862",
+        "image": "007862.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of They bring their arms back down start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_55> to <frameid_83>, they bring their arms back down."
+            }
+        ]
+    },
+    {
+        "id": "005142",
+        "image": "005142.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person shuffles to their right was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_67> to <frameid_77>, a person shuffles to their right."
+            }
+        ]
+    },
+    {
+        "id": "005142",
+        "image": "005142.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person shuffles back to their left.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_83> to <frameid_93>, the person shuffles back to their left."
+            }
+        ]
+    },
+    {
+        "id": "005142",
+        "image": "005142.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person shuffles to their original position?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_96> to <frameid_107>, the person shuffles to their original position."
+            }
+        ]
+    },
+    {
+        "id": "004299",
+        "image": "004299.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of A man picks an object up from the left side?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_9>, a man picks an object up from the left side."
+            }
+        ]
+    },
+    {
+        "id": "004299",
+        "image": "004299.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of He places it to his right side?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_40> to <frameid_74>, he places it to his right side."
+            }
+        ]
+    },
+    {
+        "id": "002919",
+        "image": "002919.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person shuffles to the left.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_80> to <frameid_93>, a person shuffles to the left."
+            }
+        ]
+    },
+    {
+        "id": "002919",
+        "image": "002919.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person to the right?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_99> to <frameid_113>, the person to the right."
+            }
+        ]
+    },
+    {
+        "id": "002919",
+        "image": "002919.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person back to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_150> to <frameid_162>, the person back to the left."
+            }
+        ]
+    },
+    {
+        "id": "000076",
+        "image": "000076.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He then replaces it to the left.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_109> to <frameid_151>, he then replaces it to the left."
+            }
+        ]
+    },
+    {
+        "id": "001534",
+        "image": "001534.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person stretches their arms to the left was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_40>, a person stretches their arms to the left."
+            }
+        ]
+    },
+    {
+        "id": "001534",
+        "image": "001534.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of the person to the right start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_67> to <frameid_92>, the person to the right."
+            }
+        ]
+    },
+    {
+        "id": "014522",
+        "image": "014522.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of The person shuffles quickly to the right.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_15> to <frameid_25>, the person shuffles quickly to the right."
+            }
+        ]
+    },
+    {
+        "id": "014522",
+        "image": "014522.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person shuffles quickly to the left?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_44> to <frameid_63>, the person shuffles quickly to the left."
+            }
+        ]
+    },
+    {
+        "id": "004157",
+        "image": "004157.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man kicks with his right leg was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_7> to <frameid_18>, a man kicks with his right leg."
+            }
+        ]
+    },
+    {
+        "id": "004157",
+        "image": "004157.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of He kicks with his left leg?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_43> to <frameid_56>, he kicks with his left leg."
+            }
+        ]
+    },
+    {
+        "id": "004562",
+        "image": "004562.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person does a lunge with left foot leading was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_69> to <frameid_92>, a person does a lunge with left foot leading."
+            }
+        ]
+    },
+    {
+        "id": "004562",
+        "image": "004562.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of another lunge with the right foot leading?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_156> to <frameid_180>, another lunge with the right foot leading."
+            }
+        ]
+    },
+    {
+        "id": "012385",
+        "image": "012385.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person Walking forward.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_42>, the person walking forward."
+            }
+        ]
+    },
+    {
+        "id": "012385",
+        "image": "012385.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person Walking back?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_42> to <frameid_78>, the person walking back."
+            }
+        ]
+    },
+    {
+        "id": "005458",
+        "image": "005458.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person Walking forward?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_40>, the person walking forward."
+            }
+        ]
+    },
+    {
+        "id": "013207",
+        "image": "013207.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person sprints ahead.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_0> to <frameid_19>, a person sprints ahead."
+            }
+        ]
+    },
+    {
+        "id": "013207",
+        "image": "013207.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of the person slows down?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_19> to <frameid_34>, the person slows down."
+            }
+        ]
+    },
+    {
+        "id": "009289",
+        "image": "009289.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of A person leans forward on their left leg start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_50> to <frameid_62>, a person leans forward on their left leg."
+            }
+        ]
+    },
+    {
+        "id": "003779",
+        "image": "003779.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A person hops on their left foot.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_7> to <frameid_25>, a person hops on their left foot."
+            }
+        ]
+    },
+    {
+        "id": "003779",
+        "image": "003779.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of the person hops on their right foot.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_32> to <frameid_78>, the person hops on their right foot."
+            }
+        ]
+    },
+    {
+        "id": "008399",
+        "image": "008399.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of A man shakes his left leg.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_8> to <frameid_34>, a man shakes his left leg."
+            }
+        ]
+    },
+    {
+        "id": "008399",
+        "image": "008399.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me the start frame and end frame of the motion of He then shakes his right leg.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_38> to <frameid_62>, he then shakes his right leg."
+            }
+        ]
+    },
+    {
+        "id": "003013",
+        "image": "003013.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A man swings his right arm in a curling motion towards his body was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_13> to <frameid_71>, a man swings his right arm in a curling motion towards his body."
+            }
+        ]
+    },
+    {
+        "id": "003013",
+        "image": "003013.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of He then proceeds to swing the same arm in front of his body was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_114> to <frameid_174>, he then proceeds to swing the same arm in front of his body."
+            }
+        ]
+    },
+    {
+        "id": "002486",
+        "image": "002486.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of A person is walking forwards was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_21> to <frameid_31>, a person is walking forwards."
+            }
+        ]
+    },
+    {
+        "id": "002486",
+        "image": "002486.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of They stumble was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_44> to <frameid_60>, they stumble."
+            }
+        ]
+    },
+    {
+        "id": "002486",
+        "image": "002486.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of They step back was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_110> to <frameid_121>, they step back."
+            }
+        ]
+    },
+    {
+        "id": "002486",
+        "image": "002486.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "Please tell me when the motion of They carry on forward was executed in this skeleton sequence.\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_142> to <frameid_198>, they carry on forward."
+            }
+        ]
+    },
+    {
+        "id": "000597",
+        "image": "000597.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "What are the start frame ID and end frame ID of the motion of The person walks forward with their legs apart?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_23> to <frameid_141>, the person walks forward with their legs apart."
+            }
+        ]
+    },
+    {
+        "id": "000597",
+        "image": "000597.npy",
+        "conversations": [
+            {
+                "from": "human",
+                "value": "From which frame does the motion of they turn around start and at which frame does it end?\n<image>"
+            },
+            {
+                "from": "gpt",
+                "value": "From <frameid_148> to <frameid_162>, they turn around."
+            }
+        ]
+    }
+]
