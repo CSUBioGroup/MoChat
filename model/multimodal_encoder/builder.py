@@ -1,7 +1,7 @@
 from .clip_encoder import CLIPVisionTower
 from .eva_encoder import EVAVisionTower
 # from .jgroup_encoder_tcls_maskfilt import JGSE
-from .jgroup_encoder_tcls_maskfilt_lrf import JGSE
+from .jgroup_encoder_tcls_maskfilt import JGSE
 
 
 def build_vision_tower(vision_tower_cfg, **kwargs):
