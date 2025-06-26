@@ -35,7 +35,7 @@ CUDA_VISIBLE_DEVICES=0 uvicorn skeleton_demo:app --host 0.0.0.0 --port 7070
 ## Models
 
 We provide trained models for download:  
-- **[Joint-Grouped Skeleton Encoder](https://huggingface.co/CSUBioGroup/MoChat/tree/main)** for motion sequences representation.  
+- **[Joints-Grouped Skeleton Encoder](https://huggingface.co/CSUBioGroup/MoChat/tree/main)** for motion sequences representation.  
 - Two variants of motion comprehension models:  
   - [MoChat](https://huggingface.co/CSUBioGroup/MoChat/tree/main): Base model. 
   - [MoChat-R](https://huggingface.co/CSUBioGroup/MoChat/tree/main): Extended model with regression head.
