@@ -59,7 +59,7 @@ MoChat supports the following motion datasets:
 
 ## Acknowledgements
 
-- [Chat-Univi](https://github.com/PKU-YuanGroup/Chat-UniVi) MoChat builds upon the foundational work of Chat-UniVi. Special thanks to the group for making their excellent codebase publicly available.
+- [Chat-Univi](https://github.com/PKU-YuanGroup/Chat-UniVi): MoChat builds upon the foundational work of Chat-UniVi. Special thanks to the group for making their excellent codebase publicly available.
 
 ## License
 
