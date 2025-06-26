@@ -28,9 +28,19 @@ conda activate mochat
 ```
 
 ## Demo
+
+### Step 1: Start the backend service
 ```bash
 CUDA_VISIBLE_DEVICES=0 uvicorn skeleton_demo:app --host 0.0.0.0 --port 7070
 ```
+> **Hardware Requirement**: This demo requires at least **30GB GPU memory**.  
+
+### Step 2: Access the web interface
+After the service starts, open your web browser and visit:
+```
+http://localhost:7070
+```
+> **For remote servers**: Replace `localhost` with your server IP (e.g., `http://192.168.1.100:7070`)
 
 ## Models
 
